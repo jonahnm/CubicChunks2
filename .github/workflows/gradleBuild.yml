@@ -3,7 +3,7 @@ name: Java CIreal
 on:
   push:
     branches:
-      - 'MC_1.17'
+      - 'a'
 
 jobs:
   build:
